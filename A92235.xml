@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the continuance of the process of arrest, for the good of the Common-wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92235</idno>
+            <idno type="STC">Wing R513</idno>
+            <idno type="STC">Thomason 669.f.21[48]</idno>
+            <idno type="STC">ESTC R211214</idno>
+            <idno type="EEBO-CITATION">99869944</idno>
+            <idno type="PROQUEST">99869944</idno>
+            <idno type="VID">163543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163543)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f21[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the continuance of the process of arrest, for the good of the Common-wealth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Thomason copy imperfect; top cropped with loss of text.</note>
+                  <note>Annotation on Thomason copy: "June. 10. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arrest --  England --  Early works to 1800.</term>
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163543:1" rendition="simple:additions"/>
+            <head>Reaſons for the Continuance
+of the Proceſs of ARREST, for the good of the Common-wealth.</head>
+            <p>1. <seg rend="decorInit">B</seg>Ecauſe attaching the perſon doth ſecure the Plantiffs debt, either by preſent payment, or cauſing other ſatisfaction, which the proceedings by
+ſummons doth not; and as a man will give all for his life, ſo he will do much for his liberty.</p>
+            <p>2. When men are detained upon the Arreſt (which is but ſeldom, for few are arreſted in compariſon) and then it is ordinarily but for a ſhort
+time, untill they have given ſecurity to anſwer the Action, or ſome Warrant to appear.</p>
+            <p>3. If men may not proceed by Arreſt, it will much hinder Trade, and other dealings; for men will not adventure to truſt, where there is
+much liberty for the Debtor to ſtand out; and Merchants, and Tradeſmen, many times look upon the perſon as the beſt ſecurity, and
+the remedy by Arreſt the ſpeedieſt to gain their debts: without which Trade will neceſſarily decay.</p>
+            <p>4. The Proceſs to arreſt, doth end moſt Suits before the perſon be attached, and before appearance, as experience doth ſhew; for when
+men will not regard a ſummons, they will take courſe before they will ſuffer an Arreſt.</p>
+            <p>5. Men will take occaſion from the ſummons (as formerly they have done) to be gone from one Countrey to another,<note place="margin">2. H. 3. ca. 23.</note> and to make away their Eſtates, and though the
+Plantiff know it, yet he cannot help himſelf, which the Arreſt doth prevent: and the Law-makers of this land have ever held it more reaſonable, to provide for the ſa<g ref="char:EOLhyphen"/>tisfaction
+of the Creditor, then the liberty of the Debtor.</p>
+            <p>6. <hi>England</hi> is an Iſland compaſſed about with many Port-Towns, where there are many Merchants, and men that go abroad, and trade by ſea, who buy Wares upon cre<g ref="char:EOLhyphen"/>dit?
+and there will be continual occaſion of Suits againſt divers perſons of this ſort, who will not much regard the ſummons, but will betake themſelves, and their E<g ref="char:EOLhyphen"/>ſtates
+to Sea again, and the Creditor can have no remedy? whereas if the parties be attached, they will make ſatisfaction,</p>
+            <p>7. Whereas divers Tradeſmen ſubſiſt upon their credits, and take up great ſums of money, for which they can give no other ſecurity then their perſons, and by advan<g ref="char:EOLhyphen"/>tage
+thereof, many times attain to great Eſtates; but if the proceſs of Arreſt be taken away, they can hope no more to be intruſted, which apparently tends to their ruine.</p>
+            <p>8.<note place="margin">Iath. 5. 25.</note> And that proceedings by Arreſt may not ſeem at all cruel, or unjuſt; we find both Preſidents and Approbation of the like, and greater ſeverity in the Old and New
+Teſtament:<note place="margin">Iath. 18. 25. 9.</note> as ſelling the Debtor, his Wife and Children, and all that he had to make payment, and of taking, and caſting into priſon for debr, untill the utmoſt far<g ref="char:EOLhyphen"/>thing
+were paid? and yet this courſe was not condemned among the <hi>Romans</hi> (ſo much they loved Juſtice) nor by Chriſt himſelf in the New Teſtament, who bids,
+agree with thy Adverſary quickly,<note place="margin">King 4. 1. 7.</note> before thou come to the Judge; and God, who will have that which is right to be done among men, was very carefall that his own
+people ſhould pay their debts;<note place="margin">evir. 25. 39.</note> and therefore if any were indebted, though they were poor, and could not pay, yet the Creditor might take the Debtor, and his Children to
+be his bondmen,<note place="margin">rov. 10. 16.</note> or ſervants; and might take mens garments from them, and the bedding whereon they did lie, from under them, which was a far greater puniſhment
+then our light Arreſts:<note place="margin">rov. 22. 27.</note> and the priſon with us is but a gage, ot pledge untill the Defendant take courſe to anſwer the Action according to the Law.</p>
+            <p>9. Men ordinarily begin Suits upon neceſſity, and Debtors generally are called upon before any Suit is commenced: which indeed is in the nature of a ſummons, but yet
+neither this, nor the lawful ſummons doth drive men to take any courſe, until the proceſs of Arreſt iſſue forth, being more compulſory, and a more ſpeedy remedy for the
+Creditor, then the ſummons was found to be, as appears by ſundry Statutes, which are more proviſional for the Creditor who is always out of his money, then for the debtor,
+who ſeldom well ſpent it,<note place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. H 7 cap. 9.</note> nor hath care to repay it.</p>
+            <p>10. And if by any new way upon meer ſummons only, and default, Judgement ſhall be had before appearance (which courſe the Law doth not countenance) then the
+grand pillar of our common Law, the trial by twelve men (which the Law doth much honor and favour) will fall to the ground; for much buſineſs will reſt wholly upon the
+Affidavit of a ſummer, or the like, which will be a means to multiply Suits, and is in an unſure courſe, and will induce more perjury into this nation, then our Law would ever
+fore this time give an inlet unto; and therefore former Parliaments providing againſt delays by Summons, did not give Judgement upon default, but found out a ſpeedy
+remedy by Arreſt to bring the Defendant to his anſwer.</p>
+            <p>11. By the Law a <hi>Capias ad ſatisfaciend.</hi> doth not lie, but where there is a <hi>Capias ad reſpondend.</hi> firſt: and there is as great reaſon and enquity for the Arreſt to anſwer
+before Judgement,<note place="margin">Rep. fol. 12.</note> as for the Arreſt to ſatisfie after Judgement, becauſe the <hi>Capias ad reſpondend.</hi> doth compel the Defendant to take notice of the Action, to which he
+may plead if he will, and doth ſecure him that he ſhall not ſtart, ſo that when the <hi>Capias ad ſatisfaciend.</hi> doth iſſue forth, there is left no colour of juſt exception for the De<g ref="char:EOLhyphen"/>fendant:
+but on the otherſide, if Judgement ſhall be entered upon a ſuppoſed ſummons, there will be many grievous complants, and the ſucceeding evils will hardly be
+redreſſed, many will be undone, and Suits will be multiplied.</p>
+            <p>12. Experience doth ſhew that the benefit of the proceſs of Arreſt hath been very great to this Common-wealth: and all the Statutes which have mentioned it
+from time to time have given a larger extent unto it, then before it had, and none have abridged it in any thing, which is now of great antiquity, having been for many
+ages the beſt remedy (for the people to recover their debts, and to compoſe other differences) that our Anceſtors could diviſe.</p>
+            <p>13. The ſubtilty and ſubterfuges of debtors having made the proceſs of Arreſt now more neceſſary then formerly,<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dditional.</note> there will be reaſon rather to add to the remedies
+provided for the creditor in former Parliaments then to dimiſh them:<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſons.</note> and if any inconvenience by this ſo neceſſary a courſe happen to the Debtor, yet will the taking it
+away prove more prejudicial to the Plantiff, who is the party injured, and in reaſon, his caſe to be prefered and favoured.</p>
+            <p>14. If mens perſons be exempted from Arreſt, it will wrong multitudes, who have taken already the perſons of men for their beſt ſecurity, which cannot be remedi<g ref="char:EOLhyphen"/>ed,
+except warning aforehand had been given to the nation, of this great alteration of the Law, and except men have ſufficient notice ſome good time before this
+great change come, that ſo they may (if poſſible) altar, and obtain other ſecurity, then now they have: the loſſes and complaints will be very many and great, for the
+perſon is commonly the beſt, and in many caſes the only ſecurity, ſo that this ſudden intended alteration, will not only weaken all mens ſecurity, but quite deſtroy all the
+ſecurity that many have.</p>
+            <p>15. If the perſon may not be attached, the Plantiff will be put to find out the Defendants Eſtate, which will be a great trouble, and in many caſes cannot be done.</p>
+            <p>16. A very great part of our Lands are Copy-hold-tenure, and not liable to pay debts, nor can be without manifeſt, wrong to the Lord of the Mannor; and ano<g ref="char:EOLhyphen"/>ther
+great part is Land, either intailed, that the Heir is not liable, or elſe is made over to others upon conſideration; and if the perſon may not be attached, the Creditor can
+have little, and where there is Land, and the Plantiffe have a Judgement, he can have but the moity, which doth ſeldom ſatisfie.</p>
+            <p>17. It is injuſtice to protect any mans perſon from paying a juſt Debt, for no man may protect another from making good his own bargain, and contract
+without ſin: and it is againſt the Law of Nature and Nations.</p>
+            <p>18. It will eaſily appear that Arreſts for Debt, and for other things, were granted upon the peoples Petition, for the common good, finding a neceſſity of it for the
+promoting of Trade, and avoyding of Colluſion among themſelves.</p>
+            <p>19. There is no Proceſs that will ſo much keep the people to their Contracts and Promiſes, and that without delay, and before Judgement can be obtained, as the
+Proceſs of Arreſt doth, being the moſt co-erceive way, and that which doth over-awe the worſt of men.</p>
+            <p>20. To exempt the perſon from Arreſt, will much gratifie that ſort of people, who want honeſty to pay their Debts, and will be glad that their perſons may be free, they
+will be ſure to have nothing before-hand, leſt the Creditor ſhould finde any thing, whereas the fear of a Priſon, or Arreſt would make them follow their Callings, ſpend
+leſs, and ſave ſomething to pay their Debts.</p>
+            <p>21. If the perſon may not be attached, ſervants will grow licentious, men will have liberty to quarrel, fight, and commit treſpaſſes, and deſpiſe the Magiſtrate, and
+all good government, more then ever they had, whereas the Law did never protect any mans perſon that did not keep the peace.</p>
+            <p>22. By exemption from Arreſt, a very great part (if not the halfe) of this Nation that have neither Land nor other viſible Eſtate to anſwer their under-taking, can nei<g ref="char:EOLhyphen"/>ther
+borrow money, nor Trade, nor be compelled to do what the Law requires of them.</p>
+            <p>23. At <hi>Gen<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>va,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aws of</hi> New <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngland <hi>print<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> at</hi> London, 1641.</note> and in all Foraign Nations known to us, the Body, Land and Goods, are liable to pay Debts, and if the Creditor have ſeiſed upon all the Eſtate, and have
+not ſatisfaction, he may keep the Debtor in Priſon if he will, nor is the preſent government in <hi>New England</hi> without Arreſts, where every Court hath Miniſters of Juſtice
+to attach and fetch perſons before the Magiſtrate.</p>
+            <p>24. There was never any Nation that did with more vigor and zeal endeavour the expulſion of Tyrants, and the maintenance of the people in their Liberty, then the
+<hi>Athenians</hi> and <hi>Romans,</hi> and made the beſt Laws, yet the <hi>Athenians</hi> did Arreſt for Debt before Judgement, as may appear by divers paſſages in ſome of their Authors yet
+extant, and the like was done by the <hi>Romans</hi> after the expulſion of their Kings, as may appear by the lawes of the twelve Tables, and collections of divers Civilians and
+Antiquares, and the ſame practiſe was uſed among the <hi>Romans</hi> in after-times, as may appear by ſome old Lawyers in the digeſts of the Civil Law.</p>
+            <p>25. In 2. <hi>R. 2. Robert de Henley</hi> Eſquire was Arreſted at <hi>Weſtminster,</hi> at the time of Maſs, and went into the Abbey for protection, the Officers followed him, and upon
+reſiſtance, he and his men were both ſlain, the Clergy made a great complaint in Parliament (as appears by the Parliament Roll) that the priviledge of the Church was infrin<g ref="char:EOLhyphen"/>ged;
+and that a great affront was given to the Popes holineſs; upon this the King being moved, the Lords and Commons alledged and called the Judges to witneſs, and
+vouched Records, that it was againſt the Law of the Land to protect any from paying their Debts, and the great Divines and Lawyers of thoſe times being called, reſolved
+the King upon their Oaths, that neither God himſelf, ſaving his perfection, nor the Pope ſaving his holineſs, nor any King could protect any man from paying his Debts and at
+that time they judged it a ſin to protect ſuch, becauſe it was a ſin for a man not to pay his Debts.</p>
+            <p>
+               <hi>Object.</hi> If it be objected that it is a great trouble to get mens perſons attached, and therefore the intent is but to take away the Arreſt before judgment only, and not after.</p>
+            <p>
+               <hi>Anſw.</hi> Experience is the wiſeſt guide in this matter, which tels us that it will be much more difficult after Judgment to Arreſt then before, and more unſafe for the Plain<g ref="char:EOLhyphen"/>tiff
+to reſt upon that, becauſe the Defendant hath notice of the Judgement, and may (having time) eaſily abſent himſelfe, and therefore upon the firſt Arreſt (which com<g ref="char:EOLhyphen"/>monly
+is not known before hand) for the good of the Plantiff the Common Law doth provide that the Defendant ſhall (if the Plaintiff and the Cauſe require it) give ſuffi<g ref="char:EOLhyphen"/>cient
+Bayl, that if Judgement paſs againſt him, then he ſhall either pay the Debt, or yield his body to Priſon, or elſe his Bayl are to make it good, without any Arreſt after
+Judgement, ſo that it is of great conſequence for the Plantiff to have liberty to attach the perſon before Judgement, for by this means he hath a double ſecurity, and is more
+encouraged to proceed to Tryall, otherwiſe he might loſe all the fruit of his Judgement, which is by this meanes prevented.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
